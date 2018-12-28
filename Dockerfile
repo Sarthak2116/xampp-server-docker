@@ -1,4 +1,4 @@
-FROM debian:sarthak
+FROM debian:jessie
 MAINTAINER Sarthak Srivastava
 
 ENV DEBIAN_FRONTEND noninteractive
